@@ -112,3 +112,5 @@ for those buffers."
            (let ((scratch-buffer t))
              (funcall mode))
            (setq scratch-buffer t)))))
+
+(provide 'scratch)
