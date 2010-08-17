@@ -44,6 +44,7 @@
 ;; 2010-08-16 Ian Eure
 ;;   Broke out into its own file.
 
+(provide 'scratch)
 ;;; Code:
 
 (defgroup scratch nil
