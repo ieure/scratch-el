@@ -8,6 +8,8 @@
 	       :type git
 	       :url "git@github.com:cbbrowne/scratch-el.git"
 	       :load-path "."
+	       :info "."
+	       :build ("make")
 	       )
        el-get-sources))
 
