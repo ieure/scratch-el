@@ -1,0 +1,7 @@
+About Scratch
+
+Scratch is an extension to Emacs that enables one to create scratch
+buffers that are in the same mode as the current buffer.  This is
+notably useful when working on code in some language; you may grab
+code into a scratch buffer, and, by virtue of this extension, do so
+using the Emacs formatting rules for that language.
