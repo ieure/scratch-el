@@ -1,0 +1,12 @@
+* GitHub Considered Harmful
+  :PROPERTIES:
+  :ID:       88dfb60c-6b82-4094-b16c-3d218e633680
+  :END:
+
+  This project [[https://codeberg.org/emacs-weirdware/scratch][has moved to Codeberg]], and the GitHub history has been
+  wiped and replaced with this README.
+
+  GitHub cannot be trusted.  Their proprietary CoPilot feature is
+  trained on free software and violates the terms of their licensing
+  at massive scale.  Any code uploaded to GitHub will be laundered
+  through ML models and into commercial software.
